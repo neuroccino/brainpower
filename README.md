@@ -17,7 +17,7 @@ Conducting power analysis to provide tentative answers to these questions could 
 
 However, the complex nature of neuroimaging data and designs (processing three-dimensional data over time with mass univariate and multivariate approaches) requires additional steps, e.g. cluster correction, to improve reliability of inferences. And our understanding of "effects" based on these data and methods is not necessarily as intuitive: how strong should the level of activation be, or how large should the cluster extent be?
 
-Experts in these domains have created several primers, tools and software to help researchers approach power analysis appropriately. In a hackathon at the [SIPS2019](https://www.improvingpsych.org/SIPS2019/) conference, we set out to start collating a variety of such resources to make neuroimaging power analysis more accessible to researchers. We collected:
+Experts in these domains have created several primers, tools and software to help researchers approach power analysis appropriately. In a [hackathon] (https://www.ohbmbrainmappingblog.com/blog/a-fruitful-rendevous-at-sips-neuroimagers-meet-study-preregistration-advocates) at the [SIPS2019](https://www.improvingpsych.org/SIPS2019/) conference, we set out to start collating a variety of such resources to make neuroimaging power analysis more accessible to researchers. We collected:
 
 1. Informative journal articles and blog posts on the underlying principles of power analysis
 2. Software toolboxes for conducting power analysis in neuroimaging
